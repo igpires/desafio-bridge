@@ -1,6 +1,6 @@
 <h1 align="center">Desafio-bridge</h1>
 
-<p align="center">Aplicação que que calcula o menor número real duodigito.<br> 
+<p align="center">Aplicação que calcula o menor número real duodigito.<br> 
   Um número duodigito é aquele cujo seus algarismos têm no máximo 2 distintos números.</p>
 
 
