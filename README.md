@@ -20,7 +20,7 @@
 >
 > Todas as dependências serão baixadas e o Tomcat será inciado, servindo na porta 8000
 > 
-> Para testar a api basta acessar o "http://localhost:8000/api/isduodigit/"valor de input"
+> Para testar a api basta acessar o "http://localhost:8000/api/isduodigit/:valor_de_input"
 >
 > substituir "valor de input" pelo valor desejado
 
